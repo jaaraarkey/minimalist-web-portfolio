@@ -1,5 +1,5 @@
 
-Minimalist Web Portfolio with Next.js
+<Minimalist Web Portfolio with Next.js>
 This project is a clean and modern web portfolio built with Next.js, a popular React framework for server-side rendering and static site generation.
 
 Features:
